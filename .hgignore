@@ -1,0 +1,38 @@
+syntax: glob
+
+*.svn
+
+#######
+# Maven
+#######
+target/
+dependency-reduced-pom.xml
+
+#########
+# Eclipse
+#########
+.project
+.classpath
+.settings
+
+######
+# Java
+######
+*.class
+*.jar
+*.war
+*.ear
+
+#######
+# Linux
+#######
+
+#########
+# Windows
+#########
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+#regexp
+^dependency-reduced-pom\.xml$
