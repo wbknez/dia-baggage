@@ -28,7 +28,7 @@ This is a very old and not particularly technically sound project that I like
 
 Building and Running
 --------------------
-To build and run this project execute hte following:
+To build and run this project execute the following:
 
 ```shell
 $ mvn exec:java -P JSE7
